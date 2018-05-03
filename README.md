@@ -51,3 +51,7 @@ _4.SDK现在支持滑动后退，并且默认开启，关闭则在BaseSwipeBackA
 compile 'com.google.code.gson:gson:2.7'
 compile 'com.github.bumptech.glide:glide:3.7.0
  ```
+
+
+
+
